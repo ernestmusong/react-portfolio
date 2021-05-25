@@ -5,7 +5,7 @@ function About() {
         <>
             <div className="container py-4 h-100vh">
                 <div className="row d-flex justify-content-center align-items-center">
-                   <div className=" col-3 mb-4  bg-light">
+                   <div className=" col-lg-3 mb-4  bg-light">
                         <div>
                             <img src={image} alt="" />
                         </div>
