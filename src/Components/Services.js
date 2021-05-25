@@ -18,18 +18,19 @@ function Services() {
               </div>
              </div> 
            <div className="row">
-            <div className="col-9 col-md-6 col-lg-4 mb-4 ">
+            <div className="col-9 col-md-6 col-lg-4 mb-4 text-center mx-auto">
               <IconContext.Provider value={{ style: { color: "var(--mainViolet)", fontSize: "2rem", marginBottom: "1rem"} }}>
                   <div>
                     <FaLaptopCode />
                   </div>
               </IconContext.Provider>
-              <h6 className="text-dark text-uppercase " >Web development</h6>
+              <h6 className="text-dark text-uppercase mx-auto" >Web development</h6>
               <p>
-              We design exclusive, world class, result oriented websites of all types that help your business stand out from the competition.
+              I design exclusive, world class, result oriented websites of all types that help your business stand out from the competition.<br/>
+              HTML, CSS, Bootstrap JavaScript, React, PostgreSQL, Wordpress, SEO.
               </p>
             </div>
-            <div className="col-9 col-md-6 col-lg-4 mb-4 ">
+            <div className="col-9 col-md-6 col-lg-4 mb-4 text-center mx-auto">
               <IconContext.Provider value={{ style: { color: "var(--mainViolet)", fontSize: "2rem", marginBottom: "1rem"} }}>
                   <div>
                     <MdPhonelink />
@@ -37,12 +38,11 @@ function Services() {
               </IconContext.Provider>
               <h6 className="text-dark text-uppercase " >Responsive Design</h6>
               <p >
-                We use  wordpress, and provide internet marketing and Search Engine
-                Optimization that help to drive sales to your store.
+                Make your website awesome on all devices (phone, tablet, desktop) and improve user experience. 
               </p>
             </div>
             
-            <div className="col-9 col-md-6 col-lg-4 mb-4 ">
+            <div className="col-9 col-md-6 col-lg-4 mb-4 text-center mx-auto">
               <IconContext.Provider value={{ style: { color: "var(--mainViolet)", fontSize: "2rem", marginBottom: "1rem"} }}>
                   <div>
                     <FaWordpress/>
@@ -51,10 +51,11 @@ function Services() {
               <h6 className="text-dark text-uppercase " >wordpress</h6>
       
                 <p>
-              we implement digital marketint strategies to help you reach more and new customers online to increase sales and revenue for your business
+              WordPress is the simplest, most popular way to create a website or blog. In fact, WordPress powers over 40.0% of all the websites on the Internet. 
+              Yours can't be different.
               </p>
             </div>
-            <div className="col-9 col-md-6 col-lg-4 mb-4 ">
+            <div className="col-9 col-md-6 col-lg-4 mb-4 text-center mx-auto">
               <IconContext.Provider value={{ style: { color: "var(--mainViolet)", fontSize: "2rem", marginBottom: "1rem"} }}>
                   <div>
                     <SiAdobephotoshop/>
@@ -62,12 +63,11 @@ function Services() {
               </IconContext.Provider>
               <h6 className="text-dark text-uppercase " >Photoshop to html</h6>
               <p >
-              we provide a range of graphic design services ranging from logo designs, brochures designs, visual identity design, signage,
-              promotional items, leaflets, poster, custom invitations, book covers, social/digital media banners, personalized
-              birthday cards, infographic, presentation templates, branding and much more.
+              Do you have an awesome looking website designed in Photoshop and wondering how to get it up and running on the internet?
+              Worry no more because I got you covered.
               </p>
             </div>
-             <div className="col-9 col-md-6 col-lg-4 mb-4 ">
+             <div className="col-9 col-md-6 col-lg-4 mb-4 text-center mx-auto">
               <IconContext.Provider value={{ style: { color: "var(--mainViolet)", fontSize: "2rem", marginBottom: "1rem"} }}>
                   <div>
                     <GoSearch/>
@@ -75,9 +75,9 @@ function Services() {
               </IconContext.Provider>
               <h6 className="text-dark text-uppercase " >seo</h6>
               <p >
-              we provide a range of graphic design services ranging from logo designs, brochures designs, visual identity design, signage,
-              promotional items, leaflets, poster, custom invitations, book covers, social/digital media banners, personalized
-              birthday cards, infographic, presentation templates, branding and much more.
+              Increase your business visibility on the internet, rank
+               your website on google, bing etc..., get more traffic, increase conversions, name it.
+
               </p>
             </div>
           </div>
