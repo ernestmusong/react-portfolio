@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link} from "react-router-dom";
 import image from './ens.jpg';
 import { ButtonContainer } from "./Button";
 import { FaFacebook, FaGithub, FaLinkedin, FaEnvelopeOpen } from "react-icons/fa";
@@ -17,11 +18,11 @@ const header =  {
                  <h2>{props.title}</h2>
                  <p>{props.description}</p>
             </div>
-            <a href="https://mobile.facebook.com/Emmacroy-Technologies-100377362043334/">
+            <Link to='/about'> 
             <ButtonContainer >
-             Contact me
+             read more
             </ButtonContainer >
-          </a>
+          </Link>
             <div className="header-info">
           <a href="https://mobile.facebook.com/Emmacroy-Technologies-100377362043334/" target="blank">
             <button type="button" className="btn">

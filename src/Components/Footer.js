@@ -7,8 +7,8 @@ export default class Footer extends Component {
             <div className="container-fluid footer-bg py-4">
                 <div className="row w-80">
                     {/*footer first child*/}
-                    <div className=" mr-4 mr-4">
-                         <a href="https://web.facebook.com/musong.ernestakeh/">
+                    <div className=" mr-4">
+                         <a href="https://web.facebook.com/musong.ernestakeh/" target="blank"className="text-light">
                             <FaFacebook/>
                         </a>
                     </div>
