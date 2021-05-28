@@ -62,7 +62,7 @@ export  const projectList = [
         id: 7,
         img: "img/pomo.png",
         title: "Pomodoro CLock",
-        link: "https://ernestmusong.github.io/pages/pomo.html",
+        link: "https://musong-react-pomodoro-clock.netlify.app/",
         react: "react",
         projects: "all",
         alternative: "image",

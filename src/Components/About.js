@@ -11,7 +11,7 @@ function About() {
                         </div>
                    </div>
                    <div className="col mx-auto">
-                       <h1 className="title text-capitalize">about me</h1>
+                       <h1 className="title text-capitalize text-bold">about me</h1>
                        <p>I am a self-taught web developer with a high school 
                            deploma in Economics and mathematics. It all started 
                            in 2019 when a friend of mine introduced me to web 
