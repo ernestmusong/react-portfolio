@@ -30,7 +30,7 @@ export  const projectList = [
     },
     {
         id: 4,
-        img: "img/coding.png",
+        img: "img/scroll-project.png",
         title: "Scroll Project",
         link: "https://ernestmusong.github.io/Scroll-Project/index.html",
         javascript: "javascript",
@@ -145,6 +145,16 @@ export  const projectList = [
         title: "Logistics site",
         link: "https://internationaltranscargo.com/",
         wordpress: "wordpress",
+        projects: "all",
+        alternative: "image",
+    }, 
+
+    {
+        id: 15,
+        img: "img/css-portfolio.png",
+        title: "CSS Portfolio",
+        link: "https://ernestmusong.github.io/",
+        javascript: "javascript",
         projects: "all",
         alternative: "image",
     }, 
