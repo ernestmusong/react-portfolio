@@ -201,7 +201,7 @@ export  const projectList = [
 
     {
         id: 20,
-        img: "nested-carousel.png",
+        img: "img/nested-carousel.png",
         title: "Nested Slideshow",
         link: "https://nested-carousel.netlify.app/",
         javascript: "javascript",
