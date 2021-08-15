@@ -161,7 +161,7 @@ export  const projectList = [
 
      {
         id: 17,
-        img: "img/mockups-to-html.png",
+        img: "img/mockups-to-html.jpg",
         title: "Mockups To HTML",
         link: "https://github.com/ernestmusong/ernestmusong.github.io",
         featured: "featured",
