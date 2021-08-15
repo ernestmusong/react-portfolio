@@ -158,4 +158,65 @@ export  const projectList = [
         projects: "all",
         alternative: "image",
     }, 
+
+     {
+        id: 17,
+        img: "img/mockups-to-html.png",
+        title: "Mockups To HTML",
+        link: "https://github.com/ernestmusong/ernestmusong.github.io",
+        featured: "featured",
+        alternative: "image",
+        slug: "mockups",
+    },
+
+    {
+        id: 18,
+        img: "img/figma-to-html1.png",
+        title: "Figma To Html",
+        link: "https://figma-to-html-one.netlify.app/",
+        mockup: "mockup",
+        projects: "all",
+        alternative: "image",
+    }, 
+
+     {
+        id: 18,
+        img: "img/figma-to-html2.png",
+        title: "Figma To Html",
+        link: "https://figma-to-html-2.netlify.app/",
+        mockup: "mockup",
+        projects: "all",
+        alternative: "image",
+    },
+    
+    {
+        id: 19,
+        img: "img/count-up.png",
+        title: "Javascript Counter",
+        link: "https://javascript-countup-demo.netlify.app/",
+        javascript: "javascript",
+        alternative: "image",
+        projects: "all",
+    },
+
+    {
+        id: 20,
+        img: "nested-carousel.png",
+        title: "Nested Slideshow",
+        link: "https://nested-carousel.netlify.app/",
+        javascript: "javascript",
+        cascading: "css",
+        alternative: "image",
+        projects: "all",
+    },
+
+     {
+        id: 21,
+        img: "img/github-users.png",
+        title: "Github Users",
+        link: "https://fetch-github-users.netlify.app/",
+        react: "react",
+        projects: "all",
+        alternative: "image",
+    },
 ];

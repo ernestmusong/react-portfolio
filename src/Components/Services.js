@@ -63,7 +63,7 @@ function Services() {
               </IconContext.Provider>
               <h6 className="text-dark text-uppercase " >Photoshop to html</h6>
               <p >
-              Do you have an awesome looking website designed in Photoshop and wondering how to get it up and running on the internet?
+              Do you have an awesome looking website designed in Photoshop or figma and wondering how to get it up and running on the internet?
               Worry no more because I got you covered.
               </p>
             </div>

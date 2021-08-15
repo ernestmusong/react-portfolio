@@ -18,7 +18,7 @@ export default class Footer extends Component {
                         </a>
                     </div>
                      <div  className=" mr-4">
-                         <a href="https://www.linkedin.com/feed/" target="blank"className="text-light">
+                         <a href="https://www.linkedin.com/in/musong-ernest-921b73211/" target="blank"className="text-light">
                            <FaLinkedin/>
                          </a>
                     </div>

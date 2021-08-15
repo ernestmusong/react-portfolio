@@ -9,6 +9,7 @@ import React from './Components/ReactProjects';
 import Contact from './Components/Contact';
 import Error from './Components/Error';
 import Footer from './Components/Footer';
+import Mockups from './Components/Mockups';
 import './App.css';
 import { Switch,Route} from "react-router-dom";
 import ReactProjects from './Components/ReactProjects';
@@ -40,6 +41,9 @@ function App() {
           </Route>
            <Route path="/css">
           <Cascading/>
+          </Route>
+          <Route path="/mockups">
+          <Mockups/>
           </Route>
            <Route path="*">
          <Error/>
