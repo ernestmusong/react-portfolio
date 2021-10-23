@@ -24,17 +24,17 @@ const header =  {
             </ButtonContainer >
           </Link>
             <div className="header-info">
-          <a href="https://mobile.facebook.com/Emmacroy-Technologies-100377362043334/" target="blank">
+          <a href="https://web.facebook.com/musong.ernestakeh/" target="blank">
             <button type="button" className="btn">
               <FaFacebook/>
             </button>
           </a>
-          <a href="https://mobile.facebook.com/Emmacroy-Technologies-100377362043334/" target="blank">
+          <a href="https://github.com/ernestmusong" target="blank">
             <button type="button" className="btn">
               <FaGithub/>
             </button>
           </a>
-          <a href="https://mobile.facebook.com/Emmacroy-Technologies-100377362043334/" target="blank">
+          <a href="https://www.linkedin.com/in/musong-ernest-921b73211/" target="blank">
             <button type="button" className="btn">
               <FaLinkedin/>
             </button>
