@@ -12,8 +12,11 @@ function Experience() {
                   </div>
                   <div class="row mb-4">
             <div class="col-lg-12 text-center mb-4">
-              <h2 class="title">Front End Developer 2019 To Present</h2>
-              <p>Freelance frontend developer, offering training in frontend development locally. </p>
+              <h2 class="title">Web Applications Developer 2019 To Present</h2>
+              <p>
+                Web development Instructor
+                IT &amp; Services, Limbe - Cameroon.
+            </p>
             </div>
           </div> 
               </div>

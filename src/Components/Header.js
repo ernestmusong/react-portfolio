@@ -5,7 +5,7 @@ import { ButtonContainer } from "./Button";
 import { FaFacebook, FaGithub, FaLinkedin, FaEnvelopeOpen } from "react-icons/fa";
 const header =  {
      title: 'Hi, I\'m Ernest',
-     description: 'A frontend developer',
+     description: 'A FullStack  Developer',
       
  };
 

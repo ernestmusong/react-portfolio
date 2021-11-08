@@ -3,6 +3,7 @@ import Experience from './Experience'
 import Header from './Header'
 import FeaturedProjects from './FeaturedProjects'
  import Services from './Services'
+ import Skills from './Skills'
   
  
  
@@ -12,6 +13,7 @@ export default class Home extends Component {
             <>
              <Header/> 
               <Services/>
+              <Skills/>
              <Experience/>
              < FeaturedProjects/>
             </>

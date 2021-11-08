@@ -45,7 +45,7 @@ function App() {
           <Route path="/mockups">
           <Mockups/>
           </Route>
-           <Route path="*">
+          <Route path="*">
          <Error/>
           </Route>
           </Switch>

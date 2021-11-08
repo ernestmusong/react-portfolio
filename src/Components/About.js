@@ -12,7 +12,7 @@ function About() {
                    </div>
                    <div className="col mx-auto">
                        <h1 className="title text-capitalize text-bold">about me</h1>
-                       <p>I am a self-taught web developer with a high school 
+                       <p>I am a self-taught web application developer with a high school 
                            deploma in Economics and mathematics. It all started 
                            in 2019 when a friend of mine introduced me to web 
                            development. I started from scratch by asking Google 
@@ -37,9 +37,10 @@ function About() {
                                <a className="text-decoratio-none mx-1" href="https://www.freecodecamp.org/certification/fcc39e5ad89-2400-452f-a99d-97fa4b579dc2/front-end-libraries" target="blank">Front End Libraries</a>.
                                 I continued learning and did a lot of practice with
                               <a className="text-decoratio-none mx-1" href="https://www.youtube.com/watch?v=iZhV0bILFb0&list=PLnHJACx3NwAe-GJ4GfptzUs8g7lFhE9DV" target="blank">John Smilga React Tutorials.</a>
-                              
-                               certification. I then decided to learn WordPress and started making some money building websites using wordpress 
-                               and today I trained people in front end web development in Cameroon.
+                                 certification. I then decided to learn WordPress and started making some money building websites using wordpress. 
+                               <br/>
+                               When I became proficient in frontend development I picked Ruby/Ruby on Rails 
+                               as my backend language.
                          </p>
                        <div className="d-flex justify-content-start align-items-center flex-wrap">
                            <div className="px-1 text-muted" style={{ backgroundColor: "lightGrey", borderRadius:"4px", textAlign: "center", margin:"1px"}}>
@@ -60,14 +61,15 @@ function About() {
                              <div className="px-1 text-muted" style={{  backgroundColor: "lightGrey", borderRadius:"4px", textAlign: "center", margin:"1px"}}>
                               react
                            </div>
+                             
                              <div className="px-1 text-muted" style={{  backgroundColor: "lightGrey", borderRadius:"4px", textAlign: "center", margin:"1px"}}>
                               git
                            </div>
                             <div className="px-1 text-muted" style={{  backgroundColor: "lightGrey", borderRadius:"4px", textAlign: "center", margin:"1px"}}>
-                              database
+                              databases
                            </div>
                              <div className="px-1 text-muted" style={{  backgroundColor: "lightGrey", borderRadius:"4px", textAlign: "center", margin:"1px"}}>
-                              seo
+                              Ruby on Rails
                            </div>
                            
                        </div>

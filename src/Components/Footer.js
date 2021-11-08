@@ -32,7 +32,7 @@ export default class Footer extends Component {
                 <div className="row d-flex flex-column justify-content-around align-items-center">
                    <div  >
                       <p className="nav-and-footer-p">
-                        Copyright &copy; <span className="text-primary">Musong Ernest</span>  <span id="date">2020</span><span className="nav-and-footer-p ml-2">All rights reserved</span>
+                        Copyright &copy; <span className="text-primary">Musong Ernest</span>  <span id="date">2021</span><span className="nav-and-footer-p ml-2">All rights reserved</span>
                         
                      </p>
                   </div>
