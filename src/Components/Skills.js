@@ -14,7 +14,7 @@ export default function Skills() {
                   <div class="row mb-4">
                      <div class="col-lg-12 text-center mb-4">
                         <p class="title">HTML, CSS, BOOSTRAP, WORDPRESS, SEO,
-                            JAVASCRIPT, REACT, REDUX, RUBY ON RAILS.
+                            JAVASCRIPT, REACT, REDUX, NODEJS, DATABASES.
                          </p>
             
                  </div> 
