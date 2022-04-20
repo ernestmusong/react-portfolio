@@ -39,7 +39,7 @@ function About() {
                               <a className="text-decoratio-none mx-1" href="https://www.youtube.com/watch?v=iZhV0bILFb0&list=PLnHJACx3NwAe-GJ4GfptzUs8g7lFhE9DV" target="blank">John Smilga React Tutorials.</a>
                                  certification. I then decided to learn WordPress and started making some money building websites using wordpress. 
                                <br/>
-                               When I became proficient in frontend development I picked Ruby/Ruby on Rails 
+                               When I became proficient in frontend development I picked up Nodejs 
                                as my backend language.
                          </p>
                        <div className="d-flex justify-content-start align-items-center flex-wrap">
@@ -69,7 +69,7 @@ function About() {
                               databases
                            </div>
                              <div className="px-1 text-muted" style={{  backgroundColor: "lightGrey", borderRadius:"4px", textAlign: "center", margin:"1px"}}>
-                              Ruby on Rails
+                              Nodejs
                            </div>
                            
                        </div>
