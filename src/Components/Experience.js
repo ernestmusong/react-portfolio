@@ -14,8 +14,7 @@ function Experience() {
             <div class="col-lg-12 text-center mb-4">
               <h2 class="title">Web Applications Developer 2019 To Present</h2>
               <p>
-                Web development Instructor
-                IT &amp; Services, Limbe - Cameroon.
+                Freelance web developer
             </p>
             </div>
           </div> 
